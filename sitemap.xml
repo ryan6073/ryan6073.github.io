@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ryan6073.github.io/2023/03/05/%E6%88%91%E4%BB%A5%E6%88%91%E5%BF%83%E6%8B%A5%E8%87%AA%E7%94%B1/</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryan6073.github.io/2023/03/05/%E7%BB%B5%E5%BB%B6%E5%8D%83%E5%B9%B4%E7%9A%84%E7%88%B1%E6%81%A8/</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ryan6073.github.io/2023/03/05/%E4%BE%A0%E5%AE%A2%E7%9A%84%E9%A3%8E%E9%AA%A8/</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -238,6 +256,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://ryan6073.github.io/tags/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -270,6 +295,13 @@
   
   <url>
     <loc>http://ryan6073.github.io/categories/Python/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://ryan6073.github.io/categories/book/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
