@@ -1,3 +1,4 @@
+http://ryan6073.github.io/2023/03/07/selenium%E7%88%AC%E8%99%AB%E7%88%AC%E5%8F%96IEEE/
 http://ryan6073.github.io/2023/03/05/%E4%BE%A0%E5%AE%A2%E7%9A%84%E9%A3%8E%E9%AA%A8/
 http://ryan6073.github.io/2023/03/05/%E7%83%9F%E9%9B%A8%E6%B7%B1%E8%91%AC/
 http://ryan6073.github.io/2023/03/05/%E6%88%91%E4%BB%A5%E6%88%91%E5%BF%83%E6%8B%A5%E8%87%AA%E7%94%B1/
@@ -30,6 +31,8 @@ http://ryan6073.github.io/tags/%E8%B1%86%E7%93%A3%E4%B9%A6%E5%8D%95/
 http://ryan6073.github.io/tags/%E7%88%AC%E8%99%AB/
 http://ryan6073.github.io/tags/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/
 http://ryan6073.github.io/tags/%E6%8A%92%E6%83%85%E9%9A%8F%E7%AC%94/
+http://ryan6073.github.io/tags/selenium/
+http://ryan6073.github.io/tags/pyPDF2/
 http://ryan6073.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/
 http://ryan6073.github.io/categories/movie/
 http://ryan6073.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
@@ -37,3 +40,4 @@ http://ryan6073.github.io/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E6%83%B3/
 http://ryan6073.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
 http://ryan6073.github.io/categories/Python/
 http://ryan6073.github.io/categories/book/
+http://ryan6073.github.io/categories/python/
